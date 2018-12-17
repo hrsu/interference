@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2604249a-d5dd-4ae3-949f-1d21a8096151" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 1, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 10, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 11, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 12, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 13, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 14, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 15, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 16, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 17, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 18, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 19, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 2, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 20, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 21, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 22, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 23, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 24, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 25, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 26, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 27, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 28, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 29, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 3, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 30, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 4, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 5, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 6, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 7, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 8, 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/final_data/add 9, 30.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Haberman Data/1 , 50.txt" afterPath="$PROJECT_DIR$/Haberman Data/1 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Haberman Data/2 , 50.txt" afterPath="$PROJECT_DIR$/Haberman Data/2 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Haberman Data/3 , 50.txt" afterPath="$PROJECT_DIR$/Haberman Data/3 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/1 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/1 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/10 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/10 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/11 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/11 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/12 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/12 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/13 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/13 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/14 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/14 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/15 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/15 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/16 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/16 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/17 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/17 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/18 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/18 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/19 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/19 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/2 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/2 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/20 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/20 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/21 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/21 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/22 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/22 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/23 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/23 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/24 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/24 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/25 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/25 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/26 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/26 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/27 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/27 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/28 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/28 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/29 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/29 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/3 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/3 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/30 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/30 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/31 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/31 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/32 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/32 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/33 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/33 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/34 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/34 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/4 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/4 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/5 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/5 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/6 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/6 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/7 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/7 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/8 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/8 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ionosphere Data/9 , 50.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/9 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iris Data/1 , 50.txt" afterPath="$PROJECT_DIR$/Iris Data/1 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iris Data/2 , 50.txt" afterPath="$PROJECT_DIR$/Iris Data/2 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iris Data/3 , 50.txt" afterPath="$PROJECT_DIR$/Iris Data/3 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iris Data/4 , 50.txt" afterPath="$PROJECT_DIR$/Iris Data/4 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Iris Data/5 , 50.txt" afterPath="$PROJECT_DIR$/Iris Data/5 , 50.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Random_Distribute/Random.py" afterPath="$PROJECT_DIR$/Random_Distribute/Random.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Haberman Data/Haberman_data.txt" afterPath="$PROJECT_DIR$/Haberman Data/data.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Ionosphere Data/Ionosphere_data.txt" afterPath="$PROJECT_DIR$/Ionosphere Data/data.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Iris Data/iris_data.txt" afterPath="$PROJECT_DIR$/Iris Data/data.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/final_data/new_data.txt" afterPath="$PROJECT_DIR$/final_data/data.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/disturb$decision.coverage" NAME="decision Coverage Results" MODIFIED="1536674342167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decision_Tree" />
+    <SUITE FILE_PATH="coverage/disturb$deal_data__2_.coverage" NAME="deal_data (2) Coverage Results" MODIFIED="1540307831353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lonosphere Data" />
+    <SUITE FILE_PATH="coverage/disturb$Gaussian_Bayes.coverage" NAME="Gaussian_Bayes Coverage Results" MODIFIED="1537252690299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bayes" />
+    <SUITE FILE_PATH="coverage/disturb$write_in_Excel.coverage" NAME="write_in_Excel Coverage Results" MODIFIED="1536650179047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/disturb$deal_data.coverage" NAME="deal_data Coverage Results" MODIFIED="1540307355126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iris Data" />
+    <SUITE FILE_PATH="coverage/disturb$Comapre.coverage" NAME="Comapre Coverage Results" MODIFIED="1532595184117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random_Distribute" />
+    <SUITE FILE_PATH="coverage/disturb$Multinomial_Bayes.coverage" NAME="Multinomial_Bayes Coverage Results" MODIFIED="1536069552498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bayes" />
+    <SUITE FILE_PATH="coverage/disturb$Random.coverage" NAME="Random Coverage Results" MODIFIED="1540657124457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random_Distribute" />
+    <SUITE FILE_PATH="coverage/disturb$svm.coverage" NAME="svm Coverage Results" MODIFIED="1540309039365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
+    <SUITE FILE_PATH="coverage/disturb$deal_data__3_.coverage" NAME="deal_data (3) Coverage Results" MODIFIED="1540308250784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ionosphere Data" />
+    <SUITE FILE_PATH="coverage/disturb$test.coverage" NAME="test Coverage Results" MODIFIED="1536649189450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/disturb$deal_data__1_.coverage" NAME="deal_data (1) Coverage Results" MODIFIED="1540307603387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Haberman Data" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Random.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Random_Distribute/Random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-116">
+              <caret line="132" column="8" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+              <folding>
+                <element signature="e#64#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add 1 , 30.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ionosphere Data/add 1 , 30.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ionosphere Data/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ionosphere Data Set.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ionosphere Data/Ionosphere Data Set.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="name.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ionosphere Data/name.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Haberman Data Set.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Haberman Data/Haberman Data Set.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7622">
+              <caret line="206" column="9" lean-forward="false" selection-start-line="206" selection-start-column="9" selection-end-line="206" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SVM/svm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1998">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iris Data/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Haberman Data/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 , 50.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iris Data/3 , 50.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pr</find>
+      <find>0,</find>
+      <find>boxmuller</find>
+      <find>print</find>
+      <find>&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bayes/Bernoulli_Bayes.py" />
+        <option value="$PROJECT_DIR$/Random_Distribute/Comapre.py" />
+        <option value="$PROJECT_DIR$/Bayes/Multinomial_Bayes.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/data/write_in_Excel.py" />
+        <option value="$PROJECT_DIR$/Decision_Tree/decision.py" />
+        <option value="$PROJECT_DIR$/Bayes/Gaussian_Bayes.py" />
+        <option value="$PROJECT_DIR$/Iris Data/iris.txt" />
+        <option value="$PROJECT_DIR$/Haberman Data/deal_data.py" />
+        <option value="$PROJECT_DIR$/Lonosphere Data/deal_data.py" />
+        <option value="$PROJECT_DIR$/Iris Data/deal_data.py" />
+        <option value="$PROJECT_DIR$/Ionosphere Data/deal_data.py" />
+        <option value="$PROJECT_DIR$/SVM/svm.py" />
+        <option value="$PROJECT_DIR$/Random_Distribute/Random.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="disturb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="disturb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="disturb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="disturb" type="462c0819:PsiDirectoryNode" />
+              <item name="Random_Distribute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="disturb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="disturb" type="462c0819:PsiDirectoryNode" />
+              <item name="SVM" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\code\Python Project\disturb\final_data" />
+      <recent name="H:\code\Python Project\disturb\data" />
+      <recent name="H:\code\Python Project\disturb\SVM" />
+      <recent name="H:\code\Python Project\disturb\Random_Distribute" />
+      <recent name="H:\code\Python Project\disturb\Decision_Tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Random">
+    <configuration name="Random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random_Distribute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="disturb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random_Distribute/Random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="deal_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Haberman Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="disturb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Haberman Data/deal_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="deal_data (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lonosphere Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="disturb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lonosphere Data/deal_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="deal_data (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ionosphere Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="disturb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ionosphere Data/deal_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="disturb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.deal_data (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.deal_data (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.deal_data (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Random" />
+      <item index="4" class="java.lang.String" itemvalue="Python.svm" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Random" />
+        <item index="1" class="java.lang.String" itemvalue="Python.svm" />
+        <item index="2" class="java.lang.String" itemvalue="Python.deal_data (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.deal_data (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.deal_data (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2604249a-d5dd-4ae3-949f-1d21a8096151" name="Default" comment="" />
+      <created>1532504428721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532504428721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07457081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.098175965" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3254818" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Decision_Tree/decision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/10, 20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random_Distribute/Random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3996">
+          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+          <folding>
+            <element signature="e#64#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/old_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/new_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/describe_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/30, 10.txt" />
+    <entry file="file://$PROJECT_DIR$/data/20, 10.txt" />
+    <entry file="file://$PROJECT_DIR$/data/10, 20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/old_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/10, 10.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="284" lean-forward="true" selection-start-line="1" selection-start-column="268" selection-end-line="1" selection-end-column="284" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/10, 90.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/add 5, 30.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bayes/Multinomial_Bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bayes/Bernoulli_Bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/10, 10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6697">
+          <caret line="181" column="19" lean-forward="false" selection-start-line="181" selection-start-column="19" selection-end-line="181" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/5, 30.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/data/write_in_Excel.py" />
+    <entry file="file://$PROJECT_DIR$/final_data/mul 29, 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/new_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9842">
+          <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bayes/Gaussian_Bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random_Distribute/Comapre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2146">
+          <caret line="58" column="31" lean-forward="false" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decision_Tree/decision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iris Data/iris.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Haberman Data/deal_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="485" column="33" lean-forward="false" selection-start-line="485" selection-start-column="14" selection-end-line="485" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iris Data/deal_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/deal_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/0 , 50.txt" />
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/31 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/8 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12712">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/30 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12712">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/33 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3774">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/34 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12712">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iris Data/1 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iris Data/2 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iris Data/3 , 50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/add 1 , 30.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionosphere Data/Ionosphere Data Set.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Haberman Data/Haberman Data Set.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7622">
+          <caret line="206" column="9" lean-forward="false" selection-start-line="206" selection-start-column="9" selection-end-line="206" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iris Data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Haberman Data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random_Distribute/Random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="132" column="8" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+          <folding>
+            <element signature="e#64#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
